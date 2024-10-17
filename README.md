@@ -1,1 +1,1 @@
-# test2
+In meinem Zahlenraten-Spiel wird vom Computer eine zufällige Zahl in einem festgelegten Bereich (zum Beispiel zwischen 1 und 100) ausgewählt. Der Spieler hat die Aufgabe, diese Zahl durch Raten zu erraten. Nach jedem Versuch erhält der Spieler Feedback, ob die geratene Zahl zu hoch oder zu niedrig ist. Das Spiel endet, wenn der Spieler die richtige Zahl errät mit einem Konfetti.
